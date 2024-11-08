@@ -7,7 +7,12 @@ You are provided with a template that you implement in HTML along with the suppo
 
 Guidance is provided on what elements and CSS to use to achieve it.
 
-## Preparation
+## Getting Started
+
+If you are totally new, or just to maybe learn something new, check out the Getting Started Modules from MDN Curriculum:
+
+- [1. Soft Skills](https://developer.mozilla.org/en-US/curriculum/getting-started/soft-skills/)
+- [2. Environment Setup](https://developer.mozilla.org/en-US/curriculum/getting-started/environment-setup/)
 
 If you are new to HTML and CSS, you should probably look at the following resources before getting in to semantic HTML:
 
