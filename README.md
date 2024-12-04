@@ -64,6 +64,8 @@ You will usually have a heading element at the top of each `header`, `section` o
 
 Check out our [class notes for Semantic HTML](https://docs.prescriptionfree.academy/class-notes/semantic-html) to find a comprehensive set of resources covering this topic.
 
+Here are a few resources covering the main material.
+
 - [MDN Curriculum: Core Modules: 2. Semantic HTML](https://developer.mozilla.org/en-US/curriculum/core/semantic-html/)
 - [MDN Web Docs: Glossary: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [Semrush: Semantic HTML5 Guide](https://www.semrush.com/blog/semantic-html5-guide/)
