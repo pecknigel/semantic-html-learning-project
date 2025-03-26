@@ -62,7 +62,7 @@ You will usually have a heading element at the top of each `header`, `section` o
 
 ### Further Learning
 
-Check out our [class notes for Semantic HTML](https://docs.prescriptionfree.academy/class-notes/semantic-html) to find a comprehensive set of resources covering this topic.
+Check out our [class notes for Semantic HTML](https://library.peckn.net/class-notes/semantic-html) to find a comprehensive set of resources covering this topic.
 
 Here are a few resources covering the main material.
 
